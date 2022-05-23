@@ -30,3 +30,9 @@ We used time-series data obtained from functional magnetic resonance imaging (fM
 <p align="center">
     <img src="/Images/TargetSites.JPG" width="1500">
 </p>
+
+
+
+## References
+1. [Open fMRI] (https://openfmri.org/dataset/ds000208/)
+2. [Tetreault et al 2016](https://pubmed.ncbi.nlm.nih.gov/27788130/)
