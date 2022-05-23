@@ -5,13 +5,9 @@
 
 #### Briefly:
 
-The aim of this study was to perform a comprehensive, multi-modal assessment of how cTBS over DLPFC alters brain activity and connectivity, as well as subsequent working memory performance. 
-    
-We measured changes in local and remote GABA concentration, functional connectivity and low-frequency fluctuations at rest, blood oxygenation level-dependent (BOLD) activity during an n-back working memory task and working memory performance. 
+The aim of this study was to determine whether there were any differences in functional connectivity between those with and without chronic knee osteoarthritis pain. 
 
-Based on available evidence, we expected increases in local GABA concentration, reductions in low-frequency fluctuations, reductions in functional connectivity with the stimulated site, reductions in DLPFC BOLD activity during working memory, and impaired working memory performance following cTBS. 
-
-Where possible, we used a combination of frequentist and Bayesian statistical tests to assess evidence for and against the null-hypotheses.
+We used time-series data obtained from functional magnetic resonance imaging (fMRI) during rest. 
 
 
 <p>&nbsp;</p>
