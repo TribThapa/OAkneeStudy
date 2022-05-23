@@ -34,5 +34,5 @@ We used time-series data obtained from functional magnetic resonance imaging (fM
 
 
 ## References
-1. [Open fMRI] (https://openfmri.org/dataset/ds000208/)
-2. [Tetreault et al 2016](https://pubmed.ncbi.nlm.nih.gov/27788130/)
+1. [Open fMRI](https://openfmri.org/dataset/ds000208/)
+2. [Tetreault et al 2016 Brain Connectivity Predicts Placebo Response across Chronic Pain Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/27788130/)
