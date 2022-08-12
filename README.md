@@ -62,3 +62,5 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
 ## References
 1. [Open fMRI](https://openfmri.org/dataset/ds000208/)
 2. [Tetreault et al 2016 Brain Connectivity Predicts Placebo Response across Chronic Pain Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/27788130/)
+3. [NiLearn Connectome Extraction](https://nilearn.github.io/stable/connectivity/connectome_extraction.html)
+4. [SPM](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
