@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Enter subID here or into a text file to loop over multiple subjects
-subID=$(</home/trthapa/hf49_scratch/thapa/PainProjects/1_PlaceboTrial/6_ROI/ScriptsUsed/SubjectIDs.txt)
+subID=$(</../../../SubjectIDs.txt)
 
 for subID in $subID; do
 	
 		# Define paths to anat, func directories	
-		ConDir=/home/trthapa/hf49_scratch/thapa/PainProjects/1_PlaceboTrial/6_ROI/$subID
+		ConDir=/../../../$subID
 
 		if [ ! -d $DataDir ]; then mkdir $DataDir; echo "making project directory"; fi
 
