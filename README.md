@@ -61,6 +61,11 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
 
 ## References
 1. [Open fMRI](https://openfmri.org/dataset/ds000208/)
-2. [Tetreault et al 2016 Brain Connectivity Predicts Placebo Response across Chronic Pain Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/27788130/)
-3. [NiLearn Connectome Extraction](https://nilearn.github.io/stable/connectivity/connectome_extraction.html)
-4. [SPM](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+2. [NiLearn Connectome Extraction](https://nilearn.github.io/stable/connectivity/connectome_extraction.html)
+3. [SPM](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+4. [Apkarian 2011 The brain in chronic pain: clinical implications](https://pubmed.ncbi.nlm.nih.gov/22140414/)
+5. [Bennell et al 2021 Trends in management of hip and knee osteoarthritis in general practice in Australia over an 11-year window: a nationwide cross-sectional survey](https://pubmed.ncbi.nlm.nih.gov/34527976/)
+6. [Fornito & Bullmore 2015 Connectomics: a new paradigm for understanding brain disease](https://pubmed.ncbi.nlm.nih.gov/24726580/)
+7. [Power et al 2011 Functional network organization of the human brain](https://pubmed.ncbi.nlm.nih.gov/22099467/)
+8. [Tetreault et al 2016 Brain Connectivity Predicts Placebo Response across Chronic Pain Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/27788130/)
+9. [Zalesky, Fornito, & Bullmore 2010 Network-based statistic: identifying differences in brain networks](https://pubmed.ncbi.nlm.nih.gov/20600983/)
