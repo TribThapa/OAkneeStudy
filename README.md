@@ -44,6 +44,21 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
     <img src="/Images/SeedBasedAnalysis.JPG" height="700" width="700">
 </p>
 
+<p>&nbsp;</p>
+
+
+<!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
+
+![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribThapa&theme=dark&show_icons=true&title_color=Blue)
+
+
+<p>&nbsp;</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TribThapa&layout=compact&theme=dark&title_color=Blue)](https://github.com/TribThapa/github-readme-stats)
+
+
+
 ## References
 1. [Open fMRI](https://openfmri.org/dataset/ds000208/)
 2. [Tetreault et al 2016 Brain Connectivity Predicts Placebo Response across Chronic Pain Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/27788130/)
