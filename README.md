@@ -19,16 +19,13 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
 ### Please follow the hyperlinks below to the respective directories:
 
 - [Connectome analysis](https://github.com/TribThapa/OAkneeStudy/tree/main/ConnectomeAnalysis)
-- [fALFF](https://github.com/TribThapa/OAkneeStudy/tree/main/fALFF)
-- [Seed based connectivity](https://github.com/TribThapa/OAkneeStudy/tree/main/SeedBasedConnectivity)
-
 <p align="center">
     <img src="/Images/Connectivity.JPG" width="1500">
 </p>
 
 <p>&nbsp;</p>
 
-
+- [fALFF](https://github.com/TribThapa/OAkneeStudy/tree/main/fALFF)
 <p align="center">
     <img src="/Images/fALFF.JPG" width="1500">
 </p>
@@ -36,11 +33,16 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
 <p>&nbsp;</p>
 
 
+- [Seed based connectivity](https://github.com/TribThapa/OAkneeStudy/tree/main/SeedBasedConnectivity)
 <p align="center">
-    <img src="/Images/TargetSites.JPG" width="1500">
+    <img src="/Images/Seeds.JPG" width="1500">
 </p>
 
+<p>&nbsp;</p>
 
+<p align="center">
+    <img src="/Images/SeedBasedAnalysis.JPG" height="700" width="1500">
+</p>
 
 ## References
 1. [Open fMRI](https://openfmri.org/dataset/ds000208/)
