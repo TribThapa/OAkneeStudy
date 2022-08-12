@@ -41,7 +41,7 @@ We hypothesised, individuals with knee OA pain will demonstrate different functi
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="/Images/SeedBasedAnalysis.JPG" height="700" width="1500">
+    <img src="/Images/SeedBasedAnalysis.JPG" height="700" width="700">
 </p>
 
 ## References
