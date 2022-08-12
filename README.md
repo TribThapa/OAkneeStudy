@@ -7,8 +7,12 @@
 
 The aim of this study was to determine whether there were any differences in functional connectivity between those with and without chronic knee osteoarthritis pain. 
 
-We used time-series data obtained from functional magnetic resonance imaging (fMRI) during rest. 
+We used time-series data obtained from functional magnetic resonance imaging (fMRI) during rest to explore whether: 
+	-  there were fundamental differences in brain organisation and function between individuals with and without knee OA pain through functional connectivity analysis
 
+	- explore whether group level functional connectivity profiles from individuals with and without knee OA pain can be used to inform optimal target site/s for non-invasive brain stimulation
+
+We hypothesised, individuals with knee OA pain will demonstrate different functional connectivity profiles when compared to controls, and group level functional connectivity profiles obtained from individuals with knee OA pain will inform target site/s for non-invasive brain stimulation
 
 <p>&nbsp;</p>
 
