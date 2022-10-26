@@ -1,4 +1,4 @@
-## OA Knee Study
+# OA Knee Study
 
 
 ### This repository contains all scripts used to analyse data in the OA Knee Study.  
